@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelpMe!</string>
+    <string name="search_mechanics">Search Mechanics</string>
+    <string name="send_request">Send Request</string>
+    <string name="feedback">FeedBack</string>
+    <string name="logout">Logout</string>
+</resources>
